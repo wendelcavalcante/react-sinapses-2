@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.p-datatable .p-datatable-tbody .destaqueRowColor {
+  background-color: rgba(0, 0, 255, 0.151);
+}
